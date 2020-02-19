@@ -1,0 +1,11 @@
+{
+  "name": "testserver",
+  "version": "1.0.0",
+  "description": "A MEAN stack test server app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elena Sharygina",
+  "license": "ISC"
+}
